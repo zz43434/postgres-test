@@ -1,0 +1,22 @@
+{
+  "name": "postgres-test",
+  "description": "",
+  "version": "1.0.0",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zz43434/postgres-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zz43434/postgres-test/issues"
+  },
+  "homepage": "https://github.com/zz43434/postgres-test#readme",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
